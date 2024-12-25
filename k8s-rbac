@@ -1,1 +1,3 @@
 https://github.com/jaiswaladi246/Multi-Tier-With-Database/blob/main/Setup-RBAC.md
+
+kubectl apply -f secret.yml -n webapps
